@@ -116,6 +116,7 @@
 		"wts_healattack2.csv",
 		"wts_start_hard.csv",
 		"wts_bonecircle_hard.csv",
+		"wts_bonecircle.csv",
 		"wts_chaos_hard.csv",
 		"wts_boneslide_hard.csv",
 		"wts_blasterspam_hard.csv",
