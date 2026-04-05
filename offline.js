@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1775356585,
+	"version": 1775371482,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -65,6 +65,8 @@
 		"images/touchb-sheet0.png",
 		"images/touchb-sheet1.png",
 		"images/touchdpad-sheet0.png",
+		"images/touchc-sheet0.png",
+		"images/touchc-sheet1.png",
 		"images/playerheart-sheet0.png",
 		"images/menuitem-sheet0.png",
 		"images/heartshard-sheet0.png",
