@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1775371482,
+	"version": 1775375322,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -116,7 +116,6 @@
 		"wts_healattack2.csv",
 		"wts_start_hard.csv",
 		"wts_bonecircle_hard.csv",
-		"wts_bonecircle.csv",
 		"wts_chaos_hard.csv",
 		"wts_boneslide_hard.csv",
 		"wts_blasterspam_hard.csv",
